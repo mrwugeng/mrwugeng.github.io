@@ -23,7 +23,7 @@ email: yche@cern.ch
 description: >- # this means to ignore newlines until "baseurl:"
   Description
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://114.212.233.203:4000" # the base hostname & protocol for your site, e.g. http://example.com
 #twitter_username: jekyllrb
 github_username:  jekyll
 
